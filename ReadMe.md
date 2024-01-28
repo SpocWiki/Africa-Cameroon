@@ -110,8 +110,8 @@ id: Cameroon
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cameroon//
-markerFolder: ./Cameroon//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Cameroon] 
