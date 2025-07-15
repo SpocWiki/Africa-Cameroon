@@ -132,10 +132,4 @@ Capital :: [[regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910)]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Cameroon|Cameroon]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Cameroon.internal|Cameroon.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Cameroon.protect|Cameroon.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Cameroon.private|Cameroon.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Cameroon.personal|Cameroon.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Cameroon.secret|Cameroon.secret]] 
+

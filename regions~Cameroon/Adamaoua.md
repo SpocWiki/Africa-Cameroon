@@ -40,11 +40,18 @@ markerFolder: ./Adamaoua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Adamaoua|Adamaoua]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Adamaoua.public|Adamaoua.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Adamaoua.internal|Adamaoua.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Adamaoua.protect|Adamaoua.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Adamaoua.private|Adamaoua.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Adamaoua.personal|Adamaoua.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Adamaoua.secret|Adamaoua.secret]] 
+
+### #is_/same_as :: [Adamaoua](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.md) 
+
+### #is_/same_as :: [Adamaoua.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.public.md) 
+
+### #is_/same_as :: [Adamaoua.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.internal.md) 
+
+### #is_/same_as :: [Adamaoua.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.protect.md) 
+
+### #is_/same_as :: [Adamaoua.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.private.md) 
+
+### #is_/same_as :: [Adamaoua.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.personal.md) 
+
+### #is_/same_as :: [Adamaoua.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.secret.md)
 

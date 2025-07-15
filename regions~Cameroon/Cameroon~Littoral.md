@@ -40,11 +40,18 @@ markerFolder: ./Littoral/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Littoral|Littoral]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Littoral.public|Littoral.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Littoral.internal|Littoral.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Littoral.protect|Littoral.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Littoral.private|Littoral.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Littoral.personal|Littoral.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Littoral.secret|Littoral.secret]] 
+
+### #is_/same_as :: [Cameroon~Littoral](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.md) 
+
+### #is_/same_as :: [Cameroon~Littoral.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.public.md) 
+
+### #is_/same_as :: [Cameroon~Littoral.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.internal.md) 
+
+### #is_/same_as :: [Cameroon~Littoral.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.protect.md) 
+
+### #is_/same_as :: [Cameroon~Littoral.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.private.md) 
+
+### #is_/same_as :: [Cameroon~Littoral.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.personal.md) 
+
+### #is_/same_as :: [Cameroon~Littoral.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.secret.md)
 

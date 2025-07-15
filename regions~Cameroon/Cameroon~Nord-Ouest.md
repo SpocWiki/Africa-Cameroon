@@ -40,11 +40,18 @@ markerFolder: ./Nord-Ouest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Nord-Ouest|Nord-Ouest]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Nord-Ouest.public|Nord-Ouest.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Nord-Ouest.internal|Nord-Ouest.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Nord-Ouest.protect|Nord-Ouest.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Nord-Ouest.private|Nord-Ouest.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Nord-Ouest.personal|Nord-Ouest.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Nord-Ouest.secret|Nord-Ouest.secret]] 
+
+### #is_/same_as :: [Cameroon~Nord-Ouest](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord-Ouest.md) 
+
+### #is_/same_as :: [Cameroon~Nord-Ouest.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord-Ouest.public.md) 
+
+### #is_/same_as :: [Cameroon~Nord-Ouest.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord-Ouest.internal.md) 
+
+### #is_/same_as :: [Cameroon~Nord-Ouest.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord-Ouest.protect.md) 
+
+### #is_/same_as :: [Cameroon~Nord-Ouest.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord-Ouest.private.md) 
+
+### #is_/same_as :: [Cameroon~Nord-Ouest.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord-Ouest.personal.md) 
+
+### #is_/same_as :: [Cameroon~Nord-Ouest.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord-Ouest.secret.md)
 

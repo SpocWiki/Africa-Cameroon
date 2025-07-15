@@ -40,11 +40,18 @@ markerFolder: ./Extrême-Nord/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord|Extrême-Nord]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.public|Extrême-Nord.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.internal|Extrême-Nord.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.protect|Extrême-Nord.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.private|Extrême-Nord.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.personal|Extrême-Nord.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Extrême-Nord.secret|Extrême-Nord.secret]] 
+
+### #is_/same_as :: [Cameroon~Extrême-Nord](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.md) 
+
+### #is_/same_as :: [Cameroon~Extrême-Nord.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.public.md) 
+
+### #is_/same_as :: [Cameroon~Extrême-Nord.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.internal.md) 
+
+### #is_/same_as :: [Cameroon~Extrême-Nord.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.protect.md) 
+
+### #is_/same_as :: [Cameroon~Extrême-Nord.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.private.md) 
+
+### #is_/same_as :: [Cameroon~Extrême-Nord.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.personal.md) 
+
+### #is_/same_as :: [Cameroon~Extrême-Nord.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.secret.md)
 

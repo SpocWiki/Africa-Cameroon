@@ -20,3 +20,22 @@ col: 2
 briefMax: 128
 noteOnly: true
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [regions~Cameroon](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.md) 
+
+### #is_/same_as :: [regions~Cameroon.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.public.md) 
+
+### #is_/same_as :: [regions~Cameroon.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.internal.md) 
+
+### #is_/same_as :: [regions~Cameroon.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.protect.md) 
+
+### #is_/same_as :: [regions~Cameroon.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.private.md) 
+
+### #is_/same_as :: [regions~Cameroon.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.personal.md) 
+
+### #is_/same_as :: [regions~Cameroon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.secret.md)
+

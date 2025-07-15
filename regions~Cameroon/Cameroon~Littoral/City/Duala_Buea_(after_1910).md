@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910)|Duala_Buea_(after_1910)]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).public|Duala_Buea_(after_1910).public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).internal|Duala_Buea_(after_1910).internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).protect|Duala_Buea_(after_1910).protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).private|Duala_Buea_(after_1910).private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).personal|Duala_Buea_(after_1910).personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).secret|Duala_Buea_(after_1910).secret]] 
+
+### #is_/same_as :: [Duala_Buea_(after_1910)](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910).md) 
+
+### #is_/same_as :: [Duala_Buea_(after_1910).public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910).public.md) 
+
+### #is_/same_as :: [Duala_Buea_(after_1910).internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910).internal.md) 
+
+### #is_/same_as :: [Duala_Buea_(after_1910).protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910).protect.md) 
+
+### #is_/same_as :: [Duala_Buea_(after_1910).private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910).private.md) 
+
+### #is_/same_as :: [Duala_Buea_(after_1910).personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910).personal.md) 
+
+### #is_/same_as :: [Duala_Buea_(after_1910).secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910).secret.md)
+

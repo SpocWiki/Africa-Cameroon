@@ -40,11 +40,18 @@ markerFolder: ./Nord/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Nord|Nord]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Nord.public|Nord.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Nord.internal|Nord.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Nord.protect|Nord.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Nord.private|Nord.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Nord.personal|Nord.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Nord.secret|Nord.secret]] 
+
+### #is_/same_as :: [Cameroon~Nord](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.md) 
+
+### #is_/same_as :: [Cameroon~Nord.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.public.md) 
+
+### #is_/same_as :: [Cameroon~Nord.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.internal.md) 
+
+### #is_/same_as :: [Cameroon~Nord.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.protect.md) 
+
+### #is_/same_as :: [Cameroon~Nord.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.private.md) 
+
+### #is_/same_as :: [Cameroon~Nord.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.personal.md) 
+
+### #is_/same_as :: [Cameroon~Nord.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.secret.md)
 

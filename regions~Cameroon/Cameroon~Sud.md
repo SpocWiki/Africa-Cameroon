@@ -39,11 +39,18 @@ markerFolder: ./Sud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/Counties/Sud|Sud]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cameroon/Counties/Sud.public|Sud.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/Counties/Sud.internal|Sud.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/Counties/Sud.protect|Sud.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cameroon/Counties/Sud.private|Sud.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/Counties/Sud.personal|Sud.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/Counties/Sud.secret|Sud.secret]] 
+
+### #is_/same_as :: [Cameroon~Sud](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud.md) 
+
+### #is_/same_as :: [Cameroon~Sud.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud.public.md) 
+
+### #is_/same_as :: [Cameroon~Sud.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud.internal.md) 
+
+### #is_/same_as :: [Cameroon~Sud.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud.protect.md) 
+
+### #is_/same_as :: [Cameroon~Sud.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud.private.md) 
+
+### #is_/same_as :: [Cameroon~Sud.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud.personal.md) 
+
+### #is_/same_as :: [Cameroon~Sud.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud.secret.md)
 

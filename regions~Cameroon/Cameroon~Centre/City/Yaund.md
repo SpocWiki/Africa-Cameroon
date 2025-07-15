@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cameroon/City/Yaund|Yaund]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cameroon/City/Yaund.public|Yaund.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cameroon/City/Yaund.internal|Yaund.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cameroon/City/Yaund.protect|Yaund.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cameroon/City/Yaund.private|Yaund.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cameroon/City/Yaund.personal|Yaund.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cameroon/City/Yaund.secret|Yaund.secret]] 
+
+### #is_/same_as :: [Yaund](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.md) 
+
+### #is_/same_as :: [Yaund.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.public.md) 
+
+### #is_/same_as :: [Yaund.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.internal.md) 
+
+### #is_/same_as :: [Yaund.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.protect.md) 
+
+### #is_/same_as :: [Yaund.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.private.md) 
+
+### #is_/same_as :: [Yaund.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.personal.md) 
+
+### #is_/same_as :: [Yaund.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.secret.md)
+
