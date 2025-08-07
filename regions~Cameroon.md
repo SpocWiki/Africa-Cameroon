@@ -22,7 +22,6 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [regions~Cameroon](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.md) 
