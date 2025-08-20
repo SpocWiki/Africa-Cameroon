@@ -1,38 +1,39 @@
 ---
 location:
-- 3.94
-- 10.6
+  - 3.94
+  - 10.6
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26869
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Cameroon
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Cameroon
-- Camerún
-- Cameroun
-- الكاميرون
-- 喀麦隆
-- Камерун
-- the Republic of Cameroon
-- la República del Camerún
-- Camerún (el)
+  - Cameroon
+  - Camerún
+  - Cameroun
+  - الكاميرون
+  - 喀麦隆
+  - Камерун
+  - the Republic of Cameroon
+  - la República del Camerún
+  - Camerún (el)
 Languages:
-- en-CM
-- fr-CM
+  - en-CM
+  - fr-CM
 ---
 
 
