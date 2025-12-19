@@ -26,15 +26,19 @@ publishDate:
 expiryDate:
 ---
 
-# Centre
+# [[Cameroon~Centre]]
+
+## #has_/map 
 
 ```leaflet
-id: Centre
+id: Cameroon~Centre
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Centre/
-markerFolder: ./Centre/
+geojsonFolder: ./Cameroon~Centre//
+markerFolder: ./Cameroon~Centre/
+coordinates: [[Cameroon~Centre]] 
+markerFile: [[Cameroon~Centre]] 
 ```
 
 
