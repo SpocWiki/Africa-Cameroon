@@ -40,17 +40,17 @@ markerFolder: ./Sud-Ouest/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cameroon~Sud-Ouest](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest|Cameroon~Sud-Ouest]] 
 
-### #is_/same_as :: [Cameroon~Sud-Ouest.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.public|Cameroon~Sud-Ouest.public]] 
 
-### #is_/same_as :: [Cameroon~Sud-Ouest.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.internal|Cameroon~Sud-Ouest.internal]] 
 
-### #is_/same_as :: [Cameroon~Sud-Ouest.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.protect|Cameroon~Sud-Ouest.protect]] 
 
-### #is_/same_as :: [Cameroon~Sud-Ouest.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.private|Cameroon~Sud-Ouest.private]] 
 
-### #is_/same_as :: [Cameroon~Sud-Ouest.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.personal|Cameroon~Sud-Ouest.personal]] 
 
-### #is_/same_as :: [Cameroon~Sud-Ouest.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Sud-Ouest.secret|Cameroon~Sud-Ouest.secret]] 
 

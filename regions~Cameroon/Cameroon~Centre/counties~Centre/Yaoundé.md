@@ -96,19 +96,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yaound%C3%A9)  
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yaund](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/counties~Centre/Yaoundé|Yaoundé]] 
 
-### #is_/same_as :: [Yaund.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/counties~Centre/Yaoundé.public|Yaoundé.public]] 
 
-### #is_/same_as :: [Yaund.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/counties~Centre/Yaoundé.internal|Yaoundé.internal]] 
 
-### #is_/same_as :: [Yaund.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/counties~Centre/Yaoundé.protect|Yaoundé.protect]] 
 
-### #is_/same_as :: [Yaund.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/counties~Centre/Yaoundé.private|Yaoundé.private]] 
 
-### #is_/same_as :: [Yaund.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/counties~Centre/Yaoundé.personal|Yaoundé.personal]] 
 
-### #is_/same_as :: [Yaund.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/City/Yaund.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre/counties~Centre/Yaoundé.secret|Yaoundé.secret]] 
 

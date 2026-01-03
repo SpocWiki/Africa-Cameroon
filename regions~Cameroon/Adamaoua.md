@@ -40,17 +40,17 @@ markerFolder: ./Adamaoua/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adamaoua](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua|Adamaoua]] 
 
-### #is_/same_as :: [Adamaoua.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.public|Adamaoua.public]] 
 
-### #is_/same_as :: [Adamaoua.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.internal|Adamaoua.internal]] 
 
-### #is_/same_as :: [Adamaoua.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.protect|Adamaoua.protect]] 
 
-### #is_/same_as :: [Adamaoua.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.private|Adamaoua.private]] 
 
-### #is_/same_as :: [Adamaoua.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.personal|Adamaoua.personal]] 
 
-### #is_/same_as :: [Adamaoua.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Adamaoua.secret|Adamaoua.secret]] 
 

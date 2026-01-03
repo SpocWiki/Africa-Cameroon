@@ -40,17 +40,17 @@ markerFolder: ./Nord/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cameroon~Nord](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord|Cameroon~Nord]] 
 
-### #is_/same_as :: [Cameroon~Nord.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.public|Cameroon~Nord.public]] 
 
-### #is_/same_as :: [Cameroon~Nord.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.internal|Cameroon~Nord.internal]] 
 
-### #is_/same_as :: [Cameroon~Nord.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.protect|Cameroon~Nord.protect]] 
 
-### #is_/same_as :: [Cameroon~Nord.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.private|Cameroon~Nord.private]] 
 
-### #is_/same_as :: [Cameroon~Nord.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.personal|Cameroon~Nord.personal]] 
 
-### #is_/same_as :: [Cameroon~Nord.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Nord.secret|Cameroon~Nord.secret]] 
 

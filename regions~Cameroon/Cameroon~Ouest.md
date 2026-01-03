@@ -40,17 +40,17 @@ markerFolder: ./Ouest/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cameroon~Ouest](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest|Cameroon~Ouest]] 
 
-### #is_/same_as :: [Cameroon~Ouest.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.public|Cameroon~Ouest.public]] 
 
-### #is_/same_as :: [Cameroon~Ouest.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.internal|Cameroon~Ouest.internal]] 
 
-### #is_/same_as :: [Cameroon~Ouest.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.protect|Cameroon~Ouest.protect]] 
 
-### #is_/same_as :: [Cameroon~Ouest.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.private|Cameroon~Ouest.private]] 
 
-### #is_/same_as :: [Cameroon~Ouest.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.personal|Cameroon~Ouest.personal]] 
 
-### #is_/same_as :: [Cameroon~Ouest.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Ouest.secret|Cameroon~Ouest.secret]] 
 

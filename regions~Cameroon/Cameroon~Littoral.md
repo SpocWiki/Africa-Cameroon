@@ -40,17 +40,17 @@ markerFolder: ./Littoral/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cameroon~Littoral](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral|Cameroon~Littoral]] 
 
-### #is_/same_as :: [Cameroon~Littoral.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.public|Cameroon~Littoral.public]] 
 
-### #is_/same_as :: [Cameroon~Littoral.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.internal|Cameroon~Littoral.internal]] 
 
-### #is_/same_as :: [Cameroon~Littoral.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.protect|Cameroon~Littoral.protect]] 
 
-### #is_/same_as :: [Cameroon~Littoral.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.private|Cameroon~Littoral.private]] 
 
-### #is_/same_as :: [Cameroon~Littoral.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.personal|Cameroon~Littoral.personal]] 
 
-### #is_/same_as :: [Cameroon~Littoral.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Littoral.secret|Cameroon~Littoral.secret]] 
 

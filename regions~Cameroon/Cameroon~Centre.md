@@ -44,17 +44,17 @@ markerFile: [[Cameroon~Centre]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cameroon~Centre](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre|Cameroon~Centre]] 
 
-### #is_/same_as :: [Cameroon~Centre.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.public|Cameroon~Centre.public]] 
 
-### #is_/same_as :: [Cameroon~Centre.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.internal|Cameroon~Centre.internal]] 
 
-### #is_/same_as :: [Cameroon~Centre.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.protect|Cameroon~Centre.protect]] 
 
-### #is_/same_as :: [Cameroon~Centre.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.private|Cameroon~Centre.private]] 
 
-### #is_/same_as :: [Cameroon~Centre.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.personal|Cameroon~Centre.personal]] 
 
-### #is_/same_as :: [Cameroon~Centre.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Centre.secret|Cameroon~Centre.secret]] 
 

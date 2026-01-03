@@ -24,17 +24,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [regions~Cameroon](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon|regions~Cameroon]] 
 
-### #is_/same_as :: [regions~Cameroon.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.public|regions~Cameroon.public]] 
 
-### #is_/same_as :: [regions~Cameroon.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.internal|regions~Cameroon.internal]] 
 
-### #is_/same_as :: [regions~Cameroon.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.protect|regions~Cameroon.protect]] 
 
-### #is_/same_as :: [regions~Cameroon.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.private|regions~Cameroon.private]] 
 
-### #is_/same_as :: [regions~Cameroon.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.personal|regions~Cameroon.personal]] 
 
-### #is_/same_as :: [regions~Cameroon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon.secret|regions~Cameroon.secret]] 
 

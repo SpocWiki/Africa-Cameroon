@@ -40,17 +40,17 @@ markerFolder: ./Extrême-Nord/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cameroon~Extrême-Nord](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord|Cameroon~Extrême-Nord]] 
 
-### #is_/same_as :: [Cameroon~Extrême-Nord.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.public|Cameroon~Extrême-Nord.public]] 
 
-### #is_/same_as :: [Cameroon~Extrême-Nord.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.internal|Cameroon~Extrême-Nord.internal]] 
 
-### #is_/same_as :: [Cameroon~Extrême-Nord.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.protect|Cameroon~Extrême-Nord.protect]] 
 
-### #is_/same_as :: [Cameroon~Extrême-Nord.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.private|Cameroon~Extrême-Nord.private]] 
 
-### #is_/same_as :: [Cameroon~Extrême-Nord.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.personal|Cameroon~Extrême-Nord.personal]] 
 
-### #is_/same_as :: [Cameroon~Extrême-Nord.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/regions~Cameroon/Cameroon~Extrême-Nord.secret|Cameroon~Extrême-Nord.secret]] 
 
