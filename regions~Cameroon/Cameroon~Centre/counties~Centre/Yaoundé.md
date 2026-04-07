@@ -18,21 +18,21 @@ aliases:
   - Mfoundi
 has_id_wikidata: Q3808
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Edessa,209978]]"
-  - "[[_Standards/WikiData/WD~Udine,2790]]"
-  - "[[_Standards/WikiData/WD~Shenyang,11720]]"
-owner_of: "[[_Standards/WikiData/WD~Stade_Ahmadou_Ahidjo,401009]]"
+  - "[[_Standards/WikiData/WD~Edessa,209978|WD~Edessa,209978]]"
+  - "[[_Standards/WikiData/WD~Udine,2790|WD~Udine,2790]]"
+  - "[[_Standards/WikiData/WD~Shenyang,11720|WD~Shenyang,11720]]"
+owner_of: "[[_Standards/WikiData/WD~Stade_Ahmadou_Ahidjo,401009|WD~Stade_Ahmadou_Ahidjo,401009]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Kamerun,668294]]"
-  - "[[_Standards/WikiData/WD~Centre,739951]]"
-  - "[[_Standards/WikiData/WD~Cameroon,1009]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Centre,739951]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Yaoundé,39088172]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor_of_Yaoundé,111419928]]"
+  - "[[_Standards/WikiData/WD~Kamerun,668294|WD~Kamerun,668294]]"
+  - "[[_Standards/WikiData/WD~Centre,739951|WD~Centre,739951]]"
+  - "[[_Standards/WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Centre,739951|WD~Centre,739951]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Yaoundé,39088172|WD~timeline_of_Yaoundé,39088172]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor_of_Yaoundé,111419928|WD~Mayor_of_Yaoundé,111419928]]"
 inception: 1888-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~city,515]]"
-country: "[[_Standards/WikiData/WD~Cameroon,1009]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+instance_of: "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+country: "[[_Standards/WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
 area: 180
 elevation_above_sea_level: 764
 OmegaWiki_Defined_Meaning: "6614"
