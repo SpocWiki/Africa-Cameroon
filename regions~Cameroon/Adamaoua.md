@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Adamaoua/
 markerFolder: ./Adamaoua/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -28,7 +28,7 @@ coordinates: [[Duala_Buea_(after_1910)]]
 markerFile: [[Duala_Buea_(after_1910)]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

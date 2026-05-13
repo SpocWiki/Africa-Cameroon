@@ -94,7 +94,7 @@ minZoom: 6
 >
 > Douala remained the more important settlement, but Yaoundé saw rapid growth and continued as the seat of government for the Republic of Cameroon upon its independence in 1960. Most of Yaoundé's economy is still centred on the administrative structure but major industries in Yaoundé include tobacco, dairy products, beer, clay, glass goods and timber. The city has many striking monuments and buildings, such as the Presidential Palace and Palais des Congrès.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yaound%C3%A9)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Yaound%C3%A9) 
 
 
 ## Confidential Links & Embeds: 

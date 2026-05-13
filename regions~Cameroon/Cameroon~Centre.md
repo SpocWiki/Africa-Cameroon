@@ -39,7 +39,7 @@ geojsonFolder: ./Cameroon~Centre//
 markerFolder: ./Cameroon~Centre/
 coordinates: [[Cameroon~Centre]] 
 markerFile: [[Cameroon~Centre]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

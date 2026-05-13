@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sud-Ouest/
 markerFolder: ./Sud-Ouest/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

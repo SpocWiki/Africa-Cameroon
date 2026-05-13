@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Extrême-Nord/
 markerFolder: ./Extrême-Nord/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

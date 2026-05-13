@@ -34,7 +34,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Est/
 markerFolder: ./Est/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
