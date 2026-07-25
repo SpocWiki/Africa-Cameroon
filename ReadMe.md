@@ -1,4 +1,1058 @@
 ---
+dv_has_:
+  name_:
+    ab: Камерун
+    ady: Камерун
+    aeb_arab: الكاميرون
+    af: Kameroen
+    am: ካሜሩን
+    ami: Kamiron
+    an: Camerún
+    ang: Camerun
+    ann: Kamerun
+    anp: कैमरून
+    ar: الكاميرون
+    arc: ܩܐܡܪܘܢ
+    ary: كاميرون
+    arz: الكاميرون
+    ast: Camerún
+    avk: Kameruna
+    az: Kamerun
+    azb: کامرون
+    ba: Камерун
+    ban: Kamerun
+    bar: Kamerun
+    bbc: Kamerun
+    bcl: Kameron
+    be: Камерун
+    be_tarask: Камэрун
+    bew: Kamérun
+    bg: Камерун
+    bgn: کامیرون
+    bho: कैमरून
+    bi: Kamerun
+    bjn: Kamerun
+    blk: ကဲမ်မရွန်းခမ်းထီ
+    bm: Kamerun
+    bn: ক্যামেরুন
+    bo: ཁམ་མུ་རོན།
+    bpy: ক্যামেরুন
+    br: Kameroun
+    bs: Kamerun
+    bxr: Камерун
+    ca: Camerun
+    cbk_zam: Camerún
+    cdo: Cameroon
+    ce: Камерун
+    ceb: Cameroon
+    chr: ᎧᎹᎷᏂ
+    ckb: کامیروون
+    co: Camerun
+    crh: Kamerun
+    crh_latn: Kamerun
+    cs: Kamerun
+    cv: Камерун
+    cy: Camerŵn
+    da: Cameroun
+    dag: Cameroon
+    de: Kamerun
+    de-at: Kamerun
+    de_ch: Kamerun
+    din: Kameroon
+    diq: Kamerun
+    dsb: Kamerun
+    dty: क्यामेरून
+    dua: Kamerun
+    dv: ކެމަރޫން
+    ee: Cameroon
+    el: Καμερούν
+    en: Cameroon
+    en_ca: Cameroon
+    en_gb: Cameroon
+    eo: Kameruno
+    es: Camerún
+    et: Kamerun
+    eu: Kamerun
+    ext: Camerún
+    fa: کامرون
+    ff: Kamerun
+    fi: Kamerun
+    fo: Kamerun
+    fon: Cameroun
+    fr: Cameroun
+    frp: Cameron
+    frr: Kameruun
+    fy: Kameroen
+    ga: Camarún
+    gaa: Kamerun
+    gag: Kamerun
+    gcr: Kamroun
+    gd: Camarun
+    gl: Camerún
+    glk: کامرؤن
+    gn: Kamerũ
+    gpe: Cameroon
+    gsw: Kamerun
+    gu: કૅમરૂન
+    gur: Cameroon
+    guw: Cameroun
+    gv: Cameroon
+    ha: Kameru
+    hak: Cameroon
+    he: קמרון
+    hi: कैमरुन
+    hif: Cameroon
+    hr: Kamerun
+    hsb: Kamerun
+    ht: Kamewoun
+    hu: Kamerun
+    hy: Կամերուն
+    hyw: Քամերոն
+    ia: Camerun
+    id: Kamerun
+    ie: Camerun
+    ig: Kameroon
+    ilo: Kamerun
+    io: Kamerun
+    is: Kamerún
+    it: Camerun
+    ja: カメルーン
+    jam: Kamaruun
+    jbo: kamerun
+    jv: Kamérun
+    ka: კამერუნი
+    kaa: Kamerun
+    kab: Kamirun
+    kbp: Kameruni
+    kcg: Kemerun
+    kg: Kamerun
+    kge: Kamerun
+    ki: Cameroon
+    kk: Камерун
+    kn: ಕ್ಯಾಮರೂನ್
+    knc: Cameroon
+    ko: 카메룬
+    ko-kp: 까메룬
+    ks: کیمَروٗن
+    ku: Kamerûn
+    kw: Kameroun
+    ky: Камерун
+    la: Cameronia
+    lad: Kamerun
+    lb: Kamerun
+    lfn: Camerun
+    lg: Cameroon
+    li: Kameroen
+    lij: Camerun
+    lld: Camerun
+    lmo: Camerun
+    ln: Kamerun
+    lo: ປະເທດກາເມີຣູນ
+    lrc: کامرون
+    lt: Kamerūnas
+    lv: Kamerūna
+    lzh: 喀麥隆
+    mad: Kamerun
+    map_bms: Kamerun
+    mdf: Камэрун
+    mg: Kamerona
+    mhr: Камерун
+    mi: Kamarūna
+    min: Kamerun
+    mk: Камерун
+    ml: കാമറൂൺ
+    mn: Камерун
+    mni: ꯀꯦꯃꯦꯔꯨꯟ
+    mos: Cameroon
+    mr: कामेरून
+    mrj: Камерун
+    ms: Cameroon
+    mt: Kamerun
+    mwl: Camarones
+    my: ကင်မရွန်းနိုင်ငံ
+    mzn: کامرون
+    na: Kamerun
+    nah: Camerun
+    nan: Cameroon
+    nb: Kamerun
+    nds: Kamerun
+    nds_nl: Kameroen
+    ne: क्यामेरून
+    new: क्यामेरून
+    nl: Kameroen
+    nn: Kamerun
+    nov: Kamerun
+    nqo: ߞߊߡߋߙߎ߲ߣ
+    nr: Cameroon
+    nso: Cameroon
+    nv: Táłtłʼááh Chʼosh Daadánígíí Bitooh
+    oc: Cameron
+    olo: Kamerun
+    om: Kaameruun
+    or: କାମେରୁନ
+    os: Камерун
+    pa: ਕੈਮਰੂਨ
+    pam: Cameroon
+    pap: Cameroon
+    pcm: Kamerun
+    pi: केमेरून
+    pih: Cameroon
+    pl: Kamerun
+    pms: Cameron
+    pnb: کیمرون
+    pnt: Καμερούν
+    prg: Kamerūns
+    ps: کامرون
+    pt: Camarões
+    pt_br: Camarões
+    qu: Kamirun
+    rm: Camerun
+    ro: Camerun
+    ru: Камерун
+    rue: Камерун
+    rup: Camerun
+    rw: Kameruni
+    sa: केमेरून
+    sah: Камерун
+    sat: ᱠᱟᱢᱮᱨᱩᱱ
+    sc: Camerùn
+    scn: Camerun
+    sco: Cameroon
+    sd: ڪيمرون
+    se: Kamerun
+    sg: Kamerün
+    sgs: Kamerūns
+    sh: Kamerun
+    shi: Kamirun
+    shn: မိူင်းၶႅမ်းမႃးရုၼ်း
+    si: කැමරූන්
+    sk: Kamerun
+    sl: Kamerun
+    sm: Cameroon
+    smj: Kameruvnna
+    smn: Kamerun
+    sms: Kameruun
+    sn: Cameroon
+    so: Kamiruun
+    sq: Kameruni
+    sr: Камерун
+    sr_ec: Камерун
+    sr_el: Kamerun
+    ss: IKhameruni
+    st: Cameroon
+    stq: Kamerun
+    su: Kamerun
+    sv: Kamerun
+    sw: Kamerun
+    szl: Kamerůn
+    ta: கமரூன்
+    te: కామెరూన్
+    tg: Камерун
+    th: ประเทศแคเมอรูน
+    tk: Kamerun
+    tl: Cameroon
+    tly: Kamerun
+    tok: ma Kamelun
+    tr: Kamerun
+    trv: Cameron
+    ts: Cameroon
+    tt: Камерун
+    tum: Cameroon
+    tw: Cameroon
+    udm: Камерун
+    ug: كامېرۇن
+    uk: Камерун
+    ur: کیمرون
+    uz: Kamerun
+    vec: Camerun
+    vep: Kamerun
+    vi: Cameroon
+    vls: Kameroen
+    vo: Kamerunän
+    vro: Kamõrun
+    war: Camerun
+    wo: Kamerun
+    wuu: 喀麦隆
+    xal: Камерудин Орн
+    xmf: კამერუნი
+    yi: קאמערון
+    yo: Kamẹrúùnù
+    yue: 喀麥隆
+    za: Cameroon
+    zea: Kammeroen
+    zgh: ⴽⴰⵎⵉⵔⵓⵏ
+    zh: 喀麦隆
+    zh_cn: 喀麦隆
+    zh_hans: 喀麦隆
+    zh_hant: 喀麥隆
+    zh_hk: 喀麥隆
+    zh_mo: 喀麥隆
+    zh-my: 喀麦隆
+    zh_sg: 喀麦隆
+    zh_tw: 喀麥隆
+    zu: IKamerooni
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Cameroon
+dv_ISO4217-currency_alphabetic: XAF
+dv_ISO4217-currency_name: CFA Franc BEAC
+dv_ISO4217-currency_numeric: 950
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: CAMEROON
+dv_Telephone: 237
+dv_Global: true
+dv_Global_Name: World
+dv_has_name: Cameroon
+dv_has_name_en: Cameroon
+dv_has_name_es: Camerún
+dv_has_name_fr: Cameroun
+dv_has_name_cn: 喀麦隆
+dv_has_name_ar: الكاميرون
+dv_has_name_ru: Камерун
+dv_CLDR_display_name: Cameroon
+dv_UNTERM_English: Cameroon
+dv_UNTERM_English_Formal: the Republic of Cameroon
+dv_UNTERM_Spanish_Formal: la República del Camerún
+dv_UNTERM_Spanish: Camerún (el)
+dv_UNTERM_French: Cameroun (le)
+dv_UNTERM_Arabic: الكاميرون
+dv_UNTERM_Arabic_Formal: جمهورية الكاميرون
+dv_UNTERM_Chinese: 喀麦隆
+dv_UNTERM_Chinese_Formal: 喀麦隆共和国
+dv_UNTERM_French_Formal: la République du Cameroun
+dv_UNTERM_Russian: Камерун
+dv_UNTERM_Russian_Formal: Республика Камерун
+dv_Region_Name: "[[../../Africa|Africa]]"
+dv_Intermediate_Region_Name: "[[Middle Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 17
+dv_Sub-region: 202
+dv_Geoname-ID: 2233387
+dv_FIPS: CM
+dv_FIFA: CMR
+dv_IOC: CMR
+dv_MARC: cm
+dv_GAUL: 45
+dv_WMO: CM
+dv_ITU: CME
+dv_DS: CAM
+dv_TLD: .cm
+dv_EDGAR: E4
+dv_M49: 120
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 120
+dv_ISO2: CM
+dv_ISO3: CMR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon|Cameroon]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central/Cameroon.public|Cameroon.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon.internal|Cameroon.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon.protect|Cameroon.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central/Cameroon.private|Cameroon.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon.personal|Cameroon.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon.secret|Cameroon.secret]]"
+dv_has_name_de: Kamerun
+dv_Area-Total: 475442
+dv_Area-Land: 465400
+dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_VehicleCode: CAM
+dv_Capital: "[[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910)|Duala_Buea_(after_1910)]]"
+dv_Alcohol-l: 7.6
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_has_place_longitude: 10.6
+dv_has_place_latitude: 3.94
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Cameroon
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon|Cameroon]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central/Cameroon.public|Cameroon.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon.internal|Cameroon.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon.protect|Cameroon.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central/Cameroon.private|Cameroon.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon.personal|Cameroon.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon.secret|Cameroon.secret]]"
+aliases:
+  - Camarones
+  - Camarun
+  - Camarões
+  - Camarún
+  - Cameron
+  - Cameronia
+  - Cameroon
+  - Cameroun
+  - Camerun
+  - Camerùn
+  - Camerún
+  - Camerún (el)
+  - Camerŵn
+  - IKamerooni
+  - IKhameruni
+  - Kaameruun
+  - Kamaruun
+  - Kamarūna
+  - Kameroen
+  - Kameron
+  - Kamerona
+  - Kameroon
+  - Kameroun
+  - Kameru
+  - Kamerun
+  - Kameruna
+  - Kameruni
+  - Kameruno
+  - Kamerunän
+  - Kameruun
+  - Kameruvnna
+  - Kamerún
+  - Kamerûn
+  - Kamerün
+  - Kamerũ
+  - Kamerūna
+  - Kamerūnas
+  - Kamerūns
+  - Kamerůn
+  - Kamewoun
+  - Kamiron
+  - Kamirun
+  - Kamiruun
+  - Kammeroen
+  - Kamroun
+  - Kamérun
+  - Kamõrun
+  - Kamẹrúùnù
+  - Kemerun
+  - la República del Camerún
+  - ma Kamelun
+  - the Republic of Cameroon
+  - Táłtłʼááh Chʼosh Daadánígíí Bitooh
+  - Καμερούν
+  - Камерудин Орн
+  - Камерун
+  - Камэрун
+  - Կամերուն
+  - Քամերոն
+  - קאמערון
+  - קמרון
+  - الكاميرون
+  - كاميرون
+  - كامېرۇن
+  - کامرؤن
+  - کامرون
+  - کامیرون
+  - کامیروون
+  - کیمرون
+  - کیمَروٗن
+  - ڪيمرون
+  - ܩܐܡܪܘܢ
+  - ކެމަރޫން
+  - ߞߊߡߋߙߎ߲ߣ
+  - कामेरून
+  - केमेरून
+  - कैमरुन
+  - कैमरून
+  - क्यामेरून
+  - ক্যামেরুন
+  - ਕੈਮਰੂਨ
+  - કૅમરૂન
+  - କାମେରୁନ
+  - கமரூன்
+  - కామెరూన్
+  - ಕ್ಯಾಮರೂನ್
+  - കാമറൂൺ
+  - කැමරූන්
+  - ประเทศแคเมอรูน
+  - ປະເທດກາເມີຣູນ
+  - ཁམ་མུ་རོན།
+  - ကင်မရွန်းနိုင်ငံ
+  - ကဲမ်မရွန်းခမ်းထီ
+  - မိူင်းၶႅမ်းမႃးရုၼ်း
+  - კამერუნი
+  - ካሜሩን
+  - ᎧᎹᎷᏂ
+  - ᱠᱟᱢᱮᱨᱩᱱ
+  - ⴽⴰⵎⵉⵔⵓⵏ
+  - カメルーン
+  - 喀麥隆
+  - 喀麦隆
+  - ꯀꯦꯃꯦꯔꯨꯟ
+  - 까메룬
+  - 카메룬
+has_id_wikidata: Q1009
+coat_of_arms: "[[/_Standards/WikiData/WD~coat_of_arms_of_Cameroon,107152|WD~coat_of_arms_of_Cameroon,107152]]"
+located_in_or_next_to_body_of_water:
+  - "[[/_Standards/WikiData/WD~Lake_Chad,125309|WD~Lake_Chad,125309]]"
+  - "[[/_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]"
+  - "[[/_Standards/WikiData/WD~Gulf_of_Guinea,41430|WD~Gulf_of_Guinea,41430]]"
+member_of:
+  - "[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]"
+  - "[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
+  - "[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
+  - "[[/_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966|WD~Economic_Community_of_Central_African_States,189966]]"
+  - "[[/_Standards/WikiData/WD~Bank_of_Central_African_States,189972|WD~Bank_of_Central_African_States,189972]]"
+  - "[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]"
+  - "[[/_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+  - "[[/_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]"
+  - "[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]"
+  - "[[/_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535|WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
+  - "[[/_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]"
+  - "[[/_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]"
+  - "[[/_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]"
+  - "[[/_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[/_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[/_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[/_Standards/WikiData/WD~OHADA,2029901|WD~OHADA,2029901]]"
+  - "[[/_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587|WD~Gulf_of_Guinea_Commission,2986587]]"
+  - "[[/_Standards/WikiData/WD~Lake_Chad_Basin_Commission,2986599|WD~Lake_Chad_Basin_Commission,2986599]]"
+  - "[[/_Standards/WikiData/WD~AFRISTAT,3348506|WD~AFRISTAT,3348506]]"
+  - "[[/_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]"
+  - "[[/_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
+  - "[[/_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]"
+  - "[[/_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]"
+  - "[[/_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]"
+  - "[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
+  - "[[/_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]"
+  - "[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
+  - "[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[/_Standards/WikiData/WD~Multinational_Joint_Task_Force,19429054|WD~Multinational_Joint_Task_Force,19429054]]"
+  - "[[/_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]"
+highest_judicial_authority: "[[/_Standards/WikiData/WD~Supreme_Court_of_Cameroon,136989|WD~Supreme_Court_of_Cameroon,136989]]"
+flag: "[[/_Standards/WikiData/WD~flag_of_Cameroon,159872|WD~flag_of_Cameroon,159872]]"
+contains_the_administrative_territorial_entity:
+  - "[[/_Standards/WikiData/WD~West,165784|WD~West,165784]]"
+  - "[[/_Standards/WikiData/WD~Adamawa,351514|WD~Adamawa,351514]]"
+  - "[[/_Standards/WikiData/WD~North,502341|WD~North,502341]]"
+  - "[[/_Standards/WikiData/WD~Southwest,607499|WD~Southwest,607499]]"
+  - "[[/_Standards/WikiData/WD~Centre,739951|WD~Centre,739951]]"
+  - "[[/_Standards/WikiData/WD~Northwest,823946|WD~Northwest,823946]]"
+  - "[[/_Standards/WikiData/WD~Far_North,823976|WD~Far_North,823976]]"
+  - "[[/_Standards/WikiData/WD~East,845168|WD~East,845168]]"
+  - "[[/_Standards/WikiData/WD~Littoral,845172|WD~Littoral,845172]]"
+  - "[[/_Standards/WikiData/WD~South,857122|WD~South,857122]]"
+central_bank: "[[/_Standards/WikiData/WD~Bank_of_Central_African_States,189972|WD~Bank_of_Central_African_States,189972]]"
+highest_point: "[[/_Standards/WikiData/WD~Mount_Cameroon,190562|WD~Mount_Cameroon,190562]]"
+anthem: "[[/_Standards/WikiData/WD~O_Cameroon,_Cradle_of_Our_Forefathers,206429|WD~O_Cameroon,_Cradle_of_Our_Forefathers,206429]]"
+described_by_source:
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+twinned_administrative_body: "[[/_Standards/WikiData/WD~Tsushima,816736|WD~Tsushima,816736]]"
+lowest_point: "[[/_Standards/WikiData/WD~Bight_of_Biafra,999031|WD~Bight_of_Biafra,999031]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_Cameroon,1143972|WD~history_of_Cameroon,1143972]]"
+language_used:
+  - "[[/_Standards/WikiData/WD~Leti,1345684|WD~Leti,1345684]]"
+  - "[[/_Standards/WikiData/WD~Mofu-Gudur,1365132|WD~Mofu-Gudur,1365132]]"
+  - "[[/_Standards/WikiData/WD~Kom,1656595|WD~Kom,1656595]]"
+  - "[[/_Standards/WikiData/WD~Moloko,1965222|WD~Moloko,1965222]]"
+  - "[[/_Standards/WikiData/WD~Ngambay,2372207|WD~Ngambay,2372207]]"
+  - "[[/_Standards/WikiData/WD~Musgu,3123545|WD~Musgu,3123545]]"
+  - "[[/_Standards/WikiData/WD~Mpade,3280670|WD~Mpade,3280670]]"
+  - "[[/_Standards/WikiData/WD~Bung,3436612|WD~Bung,3436612]]"
+  - "[[/_Standards/WikiData/WD~Gawar,3441180|WD~Gawar,3441180]]"
+  - "[[/_Standards/WikiData/WD~Gvoko,3441188|WD~Gvoko,3441188]]"
+  - "[[/_Standards/WikiData/WD~Maɗa,3441206|WD~Maɗa,3441206]]"
+  - "[[/_Standards/WikiData/WD~Gude,3441230|WD~Gude,3441230]]"
+  - "[[/_Standards/WikiData/WD~Wandala,3441249|WD~Wandala,3441249]]"
+  - "[[/_Standards/WikiData/WD~Glavda,3441285|WD~Glavda,3441285]]"
+  - "[[/_Standards/WikiData/WD~Nzanyi,3441299|WD~Nzanyi,3441299]]"
+  - "[[/_Standards/WikiData/WD~Matal,3501751|WD~Matal,3501751]]"
+  - "[[/_Standards/WikiData/WD~Mefele,3501871|WD~Mefele,3501871]]"
+  - "[[/_Standards/WikiData/WD~Mbuko,3502213|WD~Mbuko,3502213]]"
+  - "[[/_Standards/WikiData/WD~Malgbe,3502224|WD~Malgbe,3502224]]"
+  - "[[/_Standards/WikiData/WD~South_Giziga,3502232|WD~South_Giziga,3502232]]"
+  - "[[/_Standards/WikiData/WD~Lagwan,3502264|WD~Lagwan,3502264]]"
+  - "[[/_Standards/WikiData/WD~Maslam,3502273|WD~Maslam,3502273]]"
+  - "[[/_Standards/WikiData/WD~Muyang,3502301|WD~Muyang,3502301]]"
+  - "[[/_Standards/WikiData/WD~Merey,3502314|WD~Merey,3502314]]"
+  - "[[/_Standards/WikiData/WD~Tsuvan,3502326|WD~Tsuvan,3502326]]"
+  - "[[/_Standards/WikiData/WD~Mser,3502347|WD~Mser,3502347]]"
+  - "[[/_Standards/WikiData/WD~Cuvok,3515056|WD~Cuvok,3515056]]"
+  - "[[/_Standards/WikiData/WD~Buwal,3515065|WD~Buwal,3515065]]"
+  - "[[/_Standards/WikiData/WD~Wuzlam,3515078|WD~Wuzlam,3515078]]"
+  - "[[/_Standards/WikiData/WD~North_Giziga,3515084|WD~North_Giziga,3515084]]"
+  - "[[/_Standards/WikiData/WD~Vame,3515088|WD~Vame,3515088]]"
+  - "[[/_Standards/WikiData/WD~Parkwa,3515096|WD~Parkwa,3515096]]"
+  - "[[/_Standards/WikiData/WD~Daba,3913342|WD~Daba,3913342]]"
+  - "[[/_Standards/WikiData/WD~Usaghade,3914048|WD~Usaghade,3914048]]"
+  - "[[/_Standards/WikiData/WD~Luo,3915366|WD~Luo,3915366]]"
+  - "[[/_Standards/WikiData/WD~Yukuben,3915846|WD~Yukuben,3915846]]"
+  - "[[/_Standards/WikiData/WD~Caka,5018037|WD~Caka,5018037]]"
+  - "[[/_Standards/WikiData/WD~Dama,5211865|WD~Dama,5211865]]"
+  - "[[/_Standards/WikiData/WD~Dek,5252754|WD~Dek,5252754]]"
+  - "[[/_Standards/WikiData/WD~Duli,5313405|WD~Duli,5313405]]"
+  - "[[/_Standards/WikiData/WD~Eman,5368975|WD~Eman,5368975]]"
+  - "[[/_Standards/WikiData/WD~Fang,5433811|WD~Fang,5433811]]"
+  - "[[/_Standards/WikiData/WD~Isu,6089423|WD~Isu,6089423]]"
+  - "[[/_Standards/WikiData/WD~Kolbila,6427122|WD~Kolbila,6427122]]"
+  - "[[/_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[/_Standards/WikiData/WD~French,150|WD~French,150]]"
+  - "[[/_Standards/WikiData/WD~Duala,33013|WD~Duala,33013]]"
+  - "[[/_Standards/WikiData/WD~Basaa,33093|WD~Basaa,33093]]"
+  - "[[/_Standards/WikiData/WD~Bikya,33257|WD~Bikya,33257]]"
+  - "[[/_Standards/WikiData/WD~Fang,33484|WD~Fang,33484]]"
+  - "[[/_Standards/WikiData/WD~Kwasio,34098|WD~Kwasio,34098]]"
+  - "[[/_Standards/WikiData/WD~Tiv,34131|WD~Tiv,34131]]"
+  - "[[/_Standards/WikiData/WD~Yeni,34213|WD~Yeni,34213]]"
+  - "[[/_Standards/WikiData/WD~Mungbam,34725|WD~Mungbam,34725]]"
+  - "[[/_Standards/WikiData/WD~Aghem,34737|WD~Aghem,34737]]"
+  - "[[/_Standards/WikiData/WD~Adamaua-Fulfulde,34776|WD~Adamaua-Fulfulde,34776]]"
+  - "[[/_Standards/WikiData/WD~Babanki,34790|WD~Babanki,34790]]"
+  - "[[/_Standards/WikiData/WD~Akum,34799|WD~Akum,34799]]"
+  - "[[/_Standards/WikiData/WD~Kose,34806|WD~Kose,34806]]"
+  - "[[/_Standards/WikiData/WD~Ambele,34818|WD~Ambele,34818]]"
+  - "[[/_Standards/WikiData/WD~Papia,34822|WD~Papia,34822]]"
+  - "[[/_Standards/WikiData/WD~Atong,34824|WD~Atong,34824]]"
+  - "[[/_Standards/WikiData/WD~Bakaka,34855|WD~Bakaka,34855]]"
+  - "[[/_Standards/WikiData/WD~Bafaw-Balong,34853|WD~Bafaw-Balong,34853]]"
+  - "[[/_Standards/WikiData/WD~Awing,34856|WD~Awing,34856]]"
+  - "[[/_Standards/WikiData/WD~Bangolan,34862|WD~Bangolan,34862]]"
+  - "[[/_Standards/WikiData/WD~Bankon,34860|WD~Bankon,34860]]"
+  - "[[/_Standards/WikiData/WD~Kogo,34866|WD~Kogo,34866]]"
+  - "[[/_Standards/WikiData/WD~Balo,34865|WD~Balo,34865]]"
+  - "[[/_Standards/WikiData/WD~Bambalang,34868|WD~Bambalang,34868]]"
+  - "[[/_Standards/WikiData/WD~Munka,34882|WD~Munka,34882]]"
+  - "[[/_Standards/WikiData/WD~Mbili-Mbui,34880|WD~Mbili-Mbui,34880]]"
+  - "[[/_Standards/WikiData/WD~Vengo,34885|WD~Vengo,34885]]"
+  - "[[/_Standards/WikiData/WD~Bafanji,34890|WD~Bafanji,34890]]"
+  - "[[/_Standards/WikiData/WD~Fut,34888|WD~Fut,34888]]"
+  - "[[/_Standards/WikiData/WD~Bamali,34901|WD~Bamali,34901]]"
+  - "[[/_Standards/WikiData/WD~Baka,34905|WD~Baka,34905]]"
+  - "[[/_Standards/WikiData/WD~Bafia,34930|WD~Bafia,34930]]"
+  - "[[/_Standards/WikiData/WD~Bangandu,34938|WD~Bangandu,34938]]"
+  - "[[/_Standards/WikiData/WD~Sosi,34940|WD~Sosi,34940]]"
+  - "[[/_Standards/WikiData/WD~Bebil,34941|WD~Bebil,34941]]"
+  - "[[/_Standards/WikiData/WD~Bitare,34946|WD~Bitare,34946]]"
+  - "[[/_Standards/WikiData/WD~Bati,34944|WD~Bati,34944]]"
+  - "[[/_Standards/WikiData/WD~Bekwil,34950|WD~Bekwil,34950]]"
+  - "[[/_Standards/WikiData/WD~Wovea,34953|WD~Wovea,34953]]"
+  - "[[/_Standards/WikiData/WD~Bonkeng,34958|WD~Bonkeng,34958]]"
+  - "[[/_Standards/WikiData/WD~Menchum,34960|WD~Menchum,34960]]"
+  - "[[/_Standards/WikiData/WD~Bamenyam,34968|WD~Bamenyam,34968]]"
+  - "[[/_Standards/WikiData/WD~Bishuo,34973|WD~Bishuo,34973]]"
+  - "[[/_Standards/WikiData/WD~Noho,34979|WD~Noho,34979]]"
+  - "[[/_Standards/WikiData/WD~Bebele,34976|WD~Bebele,34976]]"
+  - "[[/_Standards/WikiData/WD~Bebe,34977|WD~Bebe,34977]]"
+  - "[[/_Standards/WikiData/WD~Bomwali,34984|WD~Bomwali,34984]]"
+  - "[[/_Standards/WikiData/WD~Rombi,34985|WD~Rombi,34985]]"
+  - "[[/_Standards/WikiData/WD~Bulu,35028|WD~Bulu,35028]]"
+  - "[[/_Standards/WikiData/WD~Busuu,35046|WD~Busuu,35046]]"
+  - "[[/_Standards/WikiData/WD~Beba,35050|WD~Beba,35050]]"
+  - "[[/_Standards/WikiData/WD~Byep,35052|WD~Byep,35052]]"
+  - "[[/_Standards/WikiData/WD~Bum,35058|WD~Bum,35058]]"
+  - "[[/_Standards/WikiData/WD~Bakole,35068|WD~Bakole,35068]]"
+  - "[[/_Standards/WikiData/WD~Bamukumbit,35078|WD~Bamukumbit,35078]]"
+  - "[[/_Standards/WikiData/WD~Beezen,35083|WD~Beezen,35083]]"
+  - "[[/_Standards/WikiData/WD~Boki,35087|WD~Boki,35087]]"
+  - "[[/_Standards/WikiData/WD~Denya,35187|WD~Denya,35187]]"
+  - "[[/_Standards/WikiData/WD~Busam,35189|WD~Busam,35189]]"
+  - "[[/_Standards/WikiData/WD~Chung,35194|WD~Chung,35194]]"
+  - "[[/_Standards/WikiData/WD~Kaalong,35196|WD~Kaalong,35196]]"
+  - "[[/_Standards/WikiData/WD~Dii,35208|WD~Dii,35208]]"
+  - "[[/_Standards/WikiData/WD~Evant,35259|WD~Evant,35259]]"
+  - "[[/_Standards/WikiData/WD~Duupa,35263|WD~Duupa,35263]]"
+  - "[[/_Standards/WikiData/WD~Esimbi,35260|WD~Esimbi,35260]]"
+  - "[[/_Standards/WikiData/WD~Dzodinka,35266|WD~Dzodinka,35266]]"
+  - "[[/_Standards/WikiData/WD~Gidar,35265|WD~Gidar,35265]]"
+  - "[[/_Standards/WikiData/WD~Ghomala',35271|WD~Ghomala',35271]]"
+  - "[[/_Standards/WikiData/WD~Hijuk,35274|WD~Hijuk,35274]]"
+  - "[[/_Standards/WikiData/WD~Fe'fe',35276|WD~Fe'fe',35276]]"
+  - "[[/_Standards/WikiData/WD~Bamum,35280|WD~Bamum,35280]]"
+  - "[[/_Standards/WikiData/WD~Dowayo,35299|WD~Dowayo,35299]]"
+  - "[[/_Standards/WikiData/WD~Ekoi,35296|WD~Ekoi,35296]]"
+  - "[[/_Standards/WikiData/WD~Eton,35317|WD~Eton,35317]]"
+  - "[[/_Standards/WikiData/WD~Ipulo,35408|WD~Ipulo,35408]]"
+  - "[[/_Standards/WikiData/WD~Suwu,35431|WD~Suwu,35431]]"
+  - "[[/_Standards/WikiData/WD~Gyele,35434|WD~Gyele,35434]]"
+  - "[[/_Standards/WikiData/WD~Jukun_Takum,35447|WD~Jukun_Takum,35447]]"
+  - "[[/_Standards/WikiData/WD~Ceve,35449|WD~Ceve,35449]]"
+  - "[[/_Standards/WikiData/WD~Ewondo,35459|WD~Ewondo,35459]]"
+  - "[[/_Standards/WikiData/WD~Cameroon_Pidgin,35541|WD~Cameroon_Pidgin,35541]]"
+  - "[[/_Standards/WikiData/WD~Kare,35554|WD~Kare,35554]]"
+  - "[[/_Standards/WikiData/WD~Kemezung,35562|WD~Kemezung,35562]]"
+  - "[[/_Standards/WikiData/WD~Nzime,35566|WD~Nzime,35566]]"
+  - "[[/_Standards/WikiData/WD~Kwa_,35567|WD~Kwa_,35567]]"
+  - "[[/_Standards/WikiData/WD~Kol,35582|WD~Kol,35582]]"
+  - "[[/_Standards/WikiData/WD~Korop,35626|WD~Korop,35626]]"
+  - "[[/_Standards/WikiData/WD~Kwakum,35624|WD~Kwakum,35624]]"
+  - "[[/_Standards/WikiData/WD~Koma,35634|WD~Koma,35634]]"
+  - "[[/_Standards/WikiData/WD~Koshin,35632|WD~Koshin,35632]]"
+  - "[[/_Standards/WikiData/WD~Fa_,35643|WD~Fa_,35643]]"
+  - "[[/_Standards/WikiData/WD~Kwanja,35641|WD~Kwanja,35641]]"
+  - "[[/_Standards/WikiData/WD~Kuteb,35645|WD~Kuteb,35645]]"
+  - "[[/_Standards/WikiData/WD~Kenyang,35650|WD~Kenyang,35650]]"
+  - "[[/_Standards/WikiData/WD~Karang,35681|WD~Karang,35681]]"
+  - "[[/_Standards/WikiData/WD~Kendem,35751|WD~Kendem,35751]]"
+  - "[[/_Standards/WikiData/WD~Kako,35755|WD~Kako,35755]]"
+  - "[[/_Standards/WikiData/WD~Nso,35788|WD~Nso,35788]]"
+  - "[[/_Standards/WikiData/WD~Voko,35795|WD~Voko,35795]]"
+  - "[[/_Standards/WikiData/WD~Manta,35799|WD~Manta,35799]]"
+  - "[[/_Standards/WikiData/WD~Makaa,35803|WD~Makaa,35803]]"
+  - "[[/_Standards/WikiData/WD~Limbum,35801|WD~Limbum,35801]]"
+  - "[[/_Standards/WikiData/WD~Limba,35806|WD~Limba,35806]]"
+  - "[[/_Standards/WikiData/WD~Mafa,35819|WD~Mafa,35819]]"
+  - "[[/_Standards/WikiData/WD~Mundani,35839|WD~Mundani,35839]]"
+  - "[[/_Standards/WikiData/WD~Ndoro,35837|WD~Ndoro,35837]]"
+  - "[[/_Standards/WikiData/WD~Nagumi,35842|WD~Nagumi,35842]]"
+  - "[[/_Standards/WikiData/WD~Mbule,35843|WD~Mbule,35843]]"
+  - "[[/_Standards/WikiData/WD~Vere,35862|WD~Vere,35862]]"
+  - "[[/_Standards/WikiData/WD~Nkongho,35863|WD~Nkongho,35863]]"
+  - "[[/_Standards/WikiData/WD~Mbu_,35868|WD~Mbu_,35868]]"
+  - "[[/_Standards/WikiData/WD~Njem,35898|WD~Njem,35898]]"
+  - "[[/_Standards/WikiData/WD~Mpiemo,35908|WD~Mpiemo,35908]]"
+  - "[[/_Standards/WikiData/WD~Mengisa,35917|WD~Mengisa,35917]]"
+  - "[[/_Standards/WikiData/WD~Mpumpong,35924|WD~Mpumpong,35924]]"
+  - "[[/_Standards/WikiData/WD~Mbo,36011|WD~Mbo,36011]]"
+  - "[[/_Standards/WikiData/WD~Medumba,36019|WD~Medumba,36019]]"
+  - "[[/_Standards/WikiData/WD~Nda_nda_,36016|WD~Nda_nda_,36016]]"
+  - "[[/_Standards/WikiData/WD~Məgaka,36017|WD~Məgaka,36017]]"
+  - "[[/_Standards/WikiData/WD~Moundang,36032|WD~Moundang,36032]]"
+  - "[[/_Standards/WikiData/WD~Ngwo,36051|WD~Ngwo,36051]]"
+  - "[[/_Standards/WikiData/WD~Meta',36054|WD~Meta',36054]]"
+  - "[[/_Standards/WikiData/WD~Mboa,36064|WD~Mboa,36064]]"
+  - "[[/_Standards/WikiData/WD~Nga'ka,36068|WD~Nga'ka,36068]]"
+  - "[[/_Standards/WikiData/WD~Nimbari,36069|WD~Nimbari,36069]]"
+  - "[[/_Standards/WikiData/WD~Noni,36072|WD~Noni,36072]]"
+  - "[[/_Standards/WikiData/WD~Menka,36078|WD~Menka,36078]]"
+  - "[[/_Standards/WikiData/WD~Naki,36083|WD~Naki,36083]]"
+  - "[[/_Standards/WikiData/WD~Mesaka,36080|WD~Mesaka,36080]]"
+  - "[[/_Standards/WikiData/WD~Ndemli,36089|WD~Ndemli,36089]]"
+  - "[[/_Standards/WikiData/WD~Njen,36112|WD~Njen,36112]]"
+  - "[[/_Standards/WikiData/WD~Mundabli,36127|WD~Mundabli,36127]]"
+  - "[[/_Standards/WikiData/WD~Mmen,36132|WD~Mmen,36132]]"
+  - "[[/_Standards/WikiData/WD~Kamkam,36141|WD~Kamkam,36141]]"
+  - "[[/_Standards/WikiData/WD~Mbum,36170|WD~Mbum,36170]]"
+  - "[[/_Standards/WikiData/WD~Ngwe,36181|WD~Ngwe,36181]]"
+  - "[[/_Standards/WikiData/WD~Osatu,36243|WD~Osatu,36243]]"
+  - "[[/_Standards/WikiData/WD~Pana,36241|WD~Pana,36241]]"
+  - "[[/_Standards/WikiData/WD~Pinyin,36250|WD~Pinyin,36250]]"
+  - "[[/_Standards/WikiData/WD~Baca,36270|WD~Baca,36270]]"
+  - "[[/_Standards/WikiData/WD~Oroko,36278|WD~Oroko,36278]]"
+  - "[[/_Standards/WikiData/WD~Ngiemboon,36286|WD~Ngiemboon,36286]]"
+  - "[[/_Standards/WikiData/WD~Ngomba,36287|WD~Ngomba,36287]]"
+  - "[[/_Standards/WikiData/WD~Oku,36289|WD~Oku,36289]]"
+  - "[[/_Standards/WikiData/WD~Ngombale,36292|WD~Ngombale,36292]]"
+  - "[[/_Standards/WikiData/WD~Oblo,36309|WD~Oblo,36309]]"
+  - "[[/_Standards/WikiData/WD~Gunu,36358|WD~Gunu,36358]]"
+  - "[[/_Standards/WikiData/WD~Ngie,36361|WD~Ngie,36361]]"
+  - "[[/_Standards/WikiData/WD~Nzakambay,36374|WD~Nzakambay,36374]]"
+  - "[[/_Standards/WikiData/WD~Nyong,36373|WD~Nyong,36373]]"
+  - "[[/_Standards/WikiData/WD~Kutin,36377|WD~Kutin,36377]]"
+  - "[[/_Standards/WikiData/WD~Chamba_Leko,36381|WD~Chamba_Leko,36381]]"
+  - "[[/_Standards/WikiData/WD~Pol,36408|WD~Pol,36408]]"
+  - "[[/_Standards/WikiData/WD~Saari,36418|WD~Saari,36418]]"
+  - "[[/_Standards/WikiData/WD~Kpwe,36428|WD~Kpwe,36428]]"
+  - "[[/_Standards/WikiData/WD~Nizaa,36475|WD~Nizaa,36475]]"
+  - "[[/_Standards/WikiData/WD~Tikar,36483|WD~Tikar,36483]]"
+  - "[[/_Standards/WikiData/WD~Tigon,36518|WD~Tigon,36518]]"
+  - "[[/_Standards/WikiData/WD~Northwest_Gbaya,36594|WD~Northwest_Gbaya,36594]]"
+  - "[[/_Standards/WikiData/WD~Tibea,36598|WD~Tibea,36598]]"
+  - "[[/_Standards/WikiData/WD~Swo,36604|WD~Swo,36604]]"
+  - "[[/_Standards/WikiData/WD~Tuki,36621|WD~Tuki,36621]]"
+  - "[[/_Standards/WikiData/WD~Kuk,6442398|WD~Kuk,6442398]]"
+  - "[[/_Standards/WikiData/WD~Kung,6444510|WD~Kung,6444510]]"
+  - "[[/_Standards/WikiData/WD~Kuo,6445233|WD~Kuo,6445233]]"
+  - "[[/_Standards/WikiData/WD~La'bi,6460637|WD~La'bi,6460637]]"
+  - "[[/_Standards/WikiData/WD~Laimbue,6473933|WD~Laimbue,6473933]]"
+  - "[[/_Standards/WikiData/WD~Majera,6737666|WD~Majera,6737666]]"
+  - "[[/_Standards/WikiData/WD~Mangbai,6748872|WD~Mangbai,6748872]]"
+  - "[[/_Standards/WikiData/WD~Mankon,6750551|WD~Mankon,6750551]]"
+  - "[[/_Standards/WikiData/WD~Mazagway,6798209|WD~Mazagway,6798209]]"
+  - "[[/_Standards/WikiData/WD~Mbodomo,6799713|WD~Mbodomo,6799713]]"
+  - "[[/_Standards/WikiData/WD~Mbudum,6799790|WD~Mbudum,6799790]]"
+  - "[[/_Standards/WikiData/WD~Mfumte,6826794|WD~Mfumte,6826794]]"
+  - "[[/_Standards/WikiData/WD~Ndai,6983667|WD~Ndai,6983667]]"
+  - "[[/_Standards/WikiData/WD~Ngoshie,7022582|WD~Ngoshie,7022582]]"
+  - "[[/_Standards/WikiData/WD~Nsei,7067553|WD~Nsei,7067553]]"
+  - "[[/_Standards/WikiData/WD~Pam,7129017|WD~Pam,7129017]]"
+  - "[[/_Standards/WikiData/WD~To,7811216|WD~To,7811216]]"
+  - "[[/_Standards/WikiData/WD~Tuotomb,7853459|WD~Tuotomb,7853459]]"
+  - "[[/_Standards/WikiData/WD~Twendi,7857682|WD~Twendi,7857682]]"
+  - "[[/_Standards/WikiData/WD~Weh,7979690|WD~Weh,7979690]]"
+  - "[[/_Standards/WikiData/WD~Yambeta,8048020|WD~Yambeta,8048020]]"
+  - "[[/_Standards/WikiData/WD~Zhoa,8070885|WD~Zhoa,8070885]]"
+  - "[[/_Standards/WikiData/WD~Mbe',10964025|WD~Mbe',10964025]]"
+  - "[[/_Standards/WikiData/WD~Dugun,11015189|WD~Dugun,11015189]]"
+  - "[[/_Standards/WikiData/WD~Gimnime,11016905|WD~Gimnime,11016905]]"
+  - "[[/_Standards/WikiData/WD~Mono,11031964|WD~Mono,11031964]]"
+  - "[[/_Standards/WikiData/WD~Iyive,11128658|WD~Iyive,11128658]]"
+  - "[[/_Standards/WikiData/WD~Kwaja,11128866|WD~Kwaja,11128866]]"
+  - "[[/_Standards/WikiData/WD~Mendankwe-Nkwen,11129537|WD~Mendankwe-Nkwen,11129537]]"
+  - "[[/_Standards/WikiData/WD~Ngamambo,11129694|WD~Ngamambo,11129694]]"
+  - "[[/_Standards/WikiData/WD~Gimme,11152236|WD~Gimme,11152236]]"
+  - "[[/_Standards/WikiData/WD~Ncane,11297920|WD~Ncane,11297920]]"
+  - "[[/_Standards/WikiData/WD~Elip,12952414|WD~Elip,12952414]]"
+  - "[[/_Standards/WikiData/WD~North_Fali,12952419|WD~North_Fali,12952419]]"
+  - "[[/_Standards/WikiData/WD~Yangben,12953315|WD~Yangben,12953315]]"
+  - "[[/_Standards/WikiData/WD~Mmaala,13123461|WD~Mmaala,13123461]]"
+  - "[[/_Standards/WikiData/WD~Mandi,13479983|WD~Mandi,13479983]]"
+  - "[[/_Standards/WikiData/WD~Central_Kanuri,15637215|WD~Central_Kanuri,15637215]]"
+  - "[[/_Standards/WikiData/WD~South_Fali,15637351|WD~South_Fali,15637351]]"
+  - "[[/_Standards/WikiData/WD~Cameroon_Mambila,19359039|WD~Cameroon_Mambila,19359039]]"
+  - "[[/_Standards/WikiData/WD~Nyokon,19573407|WD~Nyokon,19573407]]"
+  - "[[/_Standards/WikiData/WD~Nen,36632|WD~Nen,36632]]"
+  - "[[/_Standards/WikiData/WD~Tupuri,36646|WD~Tupuri,36646]]"
+  - "[[/_Standards/WikiData/WD~Wawa,36889|WD~Wawa,36889]]"
+  - "[[/_Standards/WikiData/WD~Yasa,36899|WD~Yasa,36899]]"
+  - "[[/_Standards/WikiData/WD~Vute,36897|WD~Vute,36897]]"
+  - "[[/_Standards/WikiData/WD~Yamba,36904|WD~Yamba,36904]]"
+  - "[[/_Standards/WikiData/WD~Yemba,36917|WD~Yemba,36917]]"
+  - "[[/_Standards/WikiData/WD~Wushi,36973|WD~Wushi,36973]]"
+  - "[[/_Standards/WikiData/WD~Wumboko,37051|WD~Wumboko,37051]]"
+  - "[[/_Standards/WikiData/WD~Hdi,56246|WD~Hdi,56246]]"
+  - "[[/_Standards/WikiData/WD~Kera,56251|WD~Kera,56251]]"
+  - "[[/_Standards/WikiData/WD~Peve,56249|WD~Peve,56249]]"
+  - "[[/_Standards/WikiData/WD~Bata,56254|WD~Bata,56254]]"
+  - "[[/_Standards/WikiData/WD~Vemgo-Mabas,56268|WD~Vemgo-Mabas,56268]]"
+  - "[[/_Standards/WikiData/WD~Bana,56272|WD~Bana,56272]]"
+  - "[[/_Standards/WikiData/WD~Baldemu,56280|WD~Baldemu,56280]]"
+  - "[[/_Standards/WikiData/WD~Yedina,56287|WD~Yedina,56287]]"
+  - "[[/_Standards/WikiData/WD~Jimi,56288|WD~Jimi,56288]]"
+  - "[[/_Standards/WikiData/WD~Jina,56297|WD~Jina,56297]]"
+  - "[[/_Standards/WikiData/WD~North_Mofu,56303|WD~North_Mofu,56303]]"
+  - "[[/_Standards/WikiData/WD~Zizilivakan,56300|WD~Zizilivakan,56300]]"
+  - "[[/_Standards/WikiData/WD~Psikyɛ,56304|WD~Psikyɛ,56304]]"
+  - "[[/_Standards/WikiData/WD~Ɗugwor,56313|WD~Ɗugwor,56313]]"
+  - "[[/_Standards/WikiData/WD~Musey,56328|WD~Musey,56328]]"
+  - "[[/_Standards/WikiData/WD~Afade,56434|WD~Afade,56434]]"
+  - "[[/_Standards/WikiData/WD~Shuwa,56497|WD~Shuwa,56497]]"
+  - "[[/_Standards/WikiData/WD~Hina,56532|WD~Hina,56532]]"
+  - "[[/_Standards/WikiData/WD~Zumaya,56626|WD~Zumaya,56626]]"
+  - "[[/_Standards/WikiData/WD~Massa,56668|WD~Massa,56668]]"
+  - "[[/_Standards/WikiData/WD~Sharwa,56791|WD~Sharwa,56791]]"
+  - "[[/_Standards/WikiData/WD~Hya,56798|WD~Hya,56798]]"
+  - "[[/_Standards/WikiData/WD~Zulgo-Gemzek,56800|WD~Zulgo-Gemzek,56800]]"
+electrical_plug_type:
+  - "[[/_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]"
+  - "[[/_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]"
+different_from: "[[/_Standards/WikiData/WD~Kamerun,1723009|WD~Kamerun,1723009]]"
+located_in_time_zone:
+  - "[[/_Standards/WikiData/WD~West_Africa_Time,1773995|WD~West_Africa_Time,1773995]]"
+  - "[[/_Standards/WikiData/WD~Africa_Douala,4689491|WD~Africa_Douala,4689491]]"
+  - "[[/_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Cameroon,2270864|WD~geography_of_Cameroon,2270864]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Cameroon,2354529|WD~economy_of_Cameroon,2354529]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of_Cameroon,2667589|WD~demographics_of_Cameroon,2667589]]"
+culture: "[[/_Standards/WikiData/WD~culture_of_Cameroon,3084522|WD~culture_of_Cameroon,3084522]]"
+instance_of:
+  - "[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+  - "[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]"
+  - "[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]"
+executive_body: "[[/_Standards/WikiData/WD~Government_of_Cameroon,5026456|WD~Government_of_Cameroon,5026456]]"
+replaces:
+  - "[[/_Standards/WikiData/WD~Cameroon,5026500|WD~Cameroon,5026500]]"
+  - "[[/_Standards/WikiData/WD~United_Republic_of_Cameroon,60023785|WD~United_Republic_of_Cameroon,60023785]]"
+shares_border_with:
+  - "[[/_Standards/WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]"
+  - "[[/_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]"
+  - "[[/_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+  - "[[/_Standards/WikiData/WD~Chad,657|WD~Chad,657]]"
+  - "[[/_Standards/WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]"
+  - "[[/_Standards/WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]"
+country: "[[/_Standards/WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
+diplomatic_relation:
+  - "[[/_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+  - "[[/_Standards/WikiData/WD~France,142|WD~France,142]]"
+  - "[[/_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[/_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]"
+  - "[[/_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[/_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+official_language:
+  - "[[/_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[/_Standards/WikiData/WD~French,150|WD~French,150]]"
+capital: "[[/_Standards/WikiData/WD~Yaoundé,3808|WD~Yaoundé,3808]]"
+basic_form_of_government: "[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]"
+located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]"
+part_of: "[[/_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]"
+continent: "[[/_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
+unemployment_rate: 4
+marriageable_age:
+  - 15
+  - 18
+age_of_majority: 21
+mains_voltage: 220
+BTI_Status_Index:
+  - 4.4
+  - 4.08
+  - 4.11
+  - 4.23
+  - 4.26
+  - 4.29
+  - 4.31
+  - 4.43
+  - 4.46
+literacy_rate: 75
+suicide_rate: 12.2
+Wikimedia_outline: "[[/_Standards/WikiData/WD~outline_of_Cameroon,7112220|WD~outline_of_Cameroon,7112220]]"
+railway_traffic_side: "[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+driving_side: "[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Cameroon,14615150|WD~Portal_Cameroon,14615150]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Prime_Minister_of_Cameroon,17051823|WD~Prime_Minister_of_Cameroon,17051823]]"
+office_held_by_head_of_state: "[[/_Standards/WikiData/WD~President_of_Cameroon,19158914|WD~President_of_Cameroon,19158914]]"
+legislative_body: "[[/_Standards/WikiData/WD~Parliament_of_Cameroon,25039919|WD~Parliament_of_Cameroon,25039919]]"
+has_characteristic: "[[/_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]"
+head_of_government: "[[/_Standards/WikiData/WD~Joseph_Ngute,60441515|WD~Joseph_Ngute,60441515]]"
+coordinate_location: Point(12.65 5.133333333)
+studied_in: "[[/_Standards/WikiData/WD~Cameroon_studies,115669332|WD~Cameroon_studies,115669332]]"
+permanent_duplicated_item: "[[/_Standards/WikiData/WD~Q131315361,131315361|WD~Q131315361,131315361]]"
+coordinates_of_easternmost_point: Point(16.19101 2.21962)
+official_website: https://www.prc.cm/fr/
+UMLS_CUI: C0006802
+demonym:
+  - كاميروني
+  - كاميرونيات
+  - كاميرونية
+  - كاميرونيين
+  - Camarúnach
+  - كاميروني
+  - كاميرونية
+  - كاميرونيون
+  - camerunés
+  - camerunesa
+  - ক্যামেরুনীয়
+  - camerouner
+  - Καμερουνέζα
+  - Καμερουνέζος
+  - Cameroonian
+  - Kamerunano
+  - camerounais
+  - Camerounais
+  - Camerounaise
+  - קמרוני
+  - קמרונית
+  - kameruni
+  - Kamerunano
+  - camerunese
+  - camerunesi
+  - camerunes
+  - camerunez
+  - cameruneză
+  - camerunezi
+  - cameruneza
+  - cameruneze
+  - camerunezi
+  - camerunezo
+  - Kamerunänan
+ISNI: 121800777
+coordinates_of_westernmost_point: Point(8.49915 4.53634)
+motto_text:
+  - Affrica Cyfan Mewn Un Wald
+  - Мир - труд - Родина
+  - All of Africa in one country
+  - Peace – Work – Fatherland
+  - Paix – Travail – Patrie
+coordinates_of_southernmost_point: Point(16.05582 1.65588)
+coordinates_of_northernmost_point: Point(14.08 13.08)
+top_level_Internet_domain: "[[/_Standards/WikiData/WD~.cm,40698|WD~.cm,40698]]"
+Democracy_Index: 2.77
+BTI_Governance_Index:
+  - 3.24
+  - 3.25
+  - 3.32
+  - 3.39
+  - 3.46
+  - 3.63
+  - 3.95
+Inequality_adjusted_Human_Development_Index: 0.393
+Happy_Planet_Index_score: 39.9
+Gini_coefficient: 46.6
+Human_Development_Index: 0.576
+head_of_state: "[[/_Standards/WikiData/WD~Paul_Biya,57272|WD~Paul_Biya,57272]]"
+death_rate:
+  - 8.16
+  - 8.225
+  - 8.419
+  - 8.582
+total_fertility_rate: 4.704
+mobile_country_code: 624
+M49_code: 120
+ISO_3166_1_numeric_code: 120
+maritime_identification_digits: 613
+OmegaWiki_Defined_Meaning: 7993
+birth_rate:
+  - 34.352
+  - 34.938
+  - 35.507
+  - 36.147
+IAB_code: 1268
+life_expectancy: 58.073
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cameroon.svg
+ISO_3166_1_alpha_3_code: CMR
+IOC_country_code: CMR
+licence_plate_code: CAM
+WIPO_ST_3: CM
+subreddit:
+  - cameroun
+  - Cameroon
+Commons_gallery: Cameroun / Cameroon
+Unicode_character: 🇨🇲
+Krugosvet_article: strany_mira/KAMERUN.html
+MeSH_tree_code: Z01.058.290.100.110
+official_name:
+  - Republic of Cameroon
+  - Hautugo Kamerun
+  - République du Cameroun
+  - Cameroun
+native_label: République du Cameroun
+short_name: 🇨🇲
+ISO_3166_1_alpha_2_code: CM
+FIPS_10_4_countries_and_regions_: CM
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cameroon%20banner%20Kribi%20beach%20with%20boats.jpg
+area: 475442
+INSEE_countries_and_foreign_territories_code: 99322
+rural_population:
+  - 11383170
+  - 11094657
+  - 11242817
+  - 11519492
+female_population:
+  - 13280460
+  - 12926852
+  - 13634397
+  - 13992014
+urban_population:
+  - 15248270
+  - 14687684
+  - 15815458
+  - 16395044
+number_of_out_of_school_children: 1773968
+nominal_GDP:
+  - 44341646509
+  - 45338285386
+inception: 1960-06
+has_time_started: 1960-06
+PM20_geo_code: C65
+hashtag: Cameroon
+Commons_category: Cameroon
+ITU_letter_code: CME
+male_population:
+  - 12855489
+  - 13210626
+  - 13564231
+  - 13922522
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Cameroon.svg
+population: 28372687
+U_S_National_Archives_Identifier: 10035828
+Dewey_Decimal_Classification: 2--6711
+geoshape: http://commons.wikimedia.org/data/main/Data:Cameroon.map
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/CMR%20orthographic.svg
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Kamerun.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D9%88%D9%86.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5146%20%28por%29-NMaia-Camar%C3%B5es.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Camerun.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A7%81%E0%A6%A8.wav
+country_calling_code: 237
+CIVICUS_Monitor_country_entry: cameroon
+GitHub_topic: cameroon
 location:
   - 3.94
   - 10.6
@@ -15,136 +1069,180 @@ cssclasses:
   - Country
 publish: true
 title: Cameroon
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Cameroon
-  - Camerún
-  - Cameroun
-  - الكاميرون
-  - 喀麦隆
-  - Камерун
-  - the Republic of Cameroon
-  - la República del Camerún
-  - Camerún (el)
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-CM
   - fr-CM
 ---
 
+# [[Cameroon]] 🇨🇲 
 
-[	ISO4217-currency_alphabetic	 :: XAF ] 
-[	ISO4217-currency_name	 :: CFA Franc BEAC ] 
-[	ISO4217-currency_numeric	 :: 950 ] 
-[	ISO4217-currency_minor_unit	 :: 0 ] 
-[	ISO4217-currency_country_name	 :: CAMEROON ] 
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[	Telephone	 :: 237 ] 
+[[Cameroon/ReadMe|ReadMe]] 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+## #has_/properties 
 
-[	name	 :: Cameroon ] 
-[	name-en	 :: Cameroon ] 
-[	name-es	 :: Camerún ] 
-[	name-fr	 :: Cameroun ] 
-[	name-cn	 :: 喀麦隆 ] 
-[	name-ar	 :: الكاميرون ] 
-[	name-ru	 :: Камерун ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	CLDR_display_name	 :: Cameroon ] 
+Telephone = `=this.dv_Telephone`
 
-[	UNTERM_English	 :: Cameroon ] 
-[	UNTERM_English_Formal	 :: the Republic of Cameroon ] 
-[	UNTERM_Spanish_Formal	 :: la República del Camerún ] 
-[	UNTERM_Spanish	 :: Camerún (el) ] 
-[	UNTERM_French	 :: Cameroun (le) ] 
-[	UNTERM_Arabic	 :: الكاميرون ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية الكاميرون ] 
-[	UNTERM_Chinese	 :: 喀麦隆 ] 
-[	UNTERM_Chinese_Formal	 :: 喀麦隆共和国 ] 
-[	UNTERM_French_Formal	 :: la République du Cameroun ] 
-[	UNTERM_Russian	 :: Камерун ] 
-[	UNTERM_Russian_Formal	 :: Республика Камерун ] 
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Middle Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+name = `=this.dv_has_name`
+[	has_name_en	 :: Cameroon ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	Region	 :: 2 ] 
-[	Intermediate_Region	 :: 17 ] 
-[	Sub-region	 :: 202 ] 
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	Geoname-ID	 :: 2233387 ] 
-[	FIPS	 :: CM ] 
-[	FIFA	 :: CMR ] 
-[	IOC	 :: CMR ] 
-[	MARC	 :: cm ] 
-[	GAUL	 :: 45 ] 
-[	WMO	 :: CM ] 
-[	ITU	 :: CME ] 
-[	DS	 :: CAM ] 
-[	TLD	 :: .cm ] 
-[	EDGAR	 :: E4 ] 
-[	M49	 :: 120 ] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
-[	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	ISO3166-1-numeric	 :: 120 ] 
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_is_a = `=this.dv_is_a_`
 
-[ISO2::CM] 
-[ISO3::CMR] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
+
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
+
+is_a = `=this.dv_is_a_`
+
+## #has_/map  
+
 ```leaflet
 id: Cameroon
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
-geojsonFolder: .//
-markerFolder: .//
+geojsonFolder: ./Cameroon//
+markerFolder: ./Cameroon//
+coordinates: [[Cameroon]] 
+markerFile: [[Cameroon]] 
+defaultZoom: 5 
 ```
 
-[name-en::Cameroon] 
-[name-de::Kamerun] 
-[Area-Total::475442] 
-[Area-Land::465400] 
-Continent :: [[Africa]]  
-[VehicleCode::CAM] 
-Capital :: [[regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910)|Duala_Buea_(after_1910)]]  
+### #has_/map_/topologic 
 
-![[Coat_of_arms_of_Cameroon.svg|350]] 
+```leaflet
+id: Cameroon_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Cameroon//
+markerFolder: ./Cameroon/
+coordinates: [[Cameroon]] 
+markerFile: [[Cameroon]] 
+unit: px
+scale: 1
+darkMode: false
+```
 
-![[Anthem-Cameroon.mp3]] 
 
-![[Flag_of_Cameroon.svg|350]] 
-[Alcohol-l::7.6] 
-[Language-Id::499] 
-[geo-lon::10.6] 
-[geo-lat::3.94] 
+
+[has_name_en::Cameroon]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+
+![[Coat_of_arms_of_Cameroon.svg|350]]
+
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Cameroon.mp3|Anthem-Cameroon.mp3]]
+
+![[Flag_of_Cameroon.svg|350]]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+
+
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+
+
+## #has_/text_of_/abstract 
+
+> **Cameroon**, officially the Republic of Cameroon, is a country in Central Africa. It shares boundaries with Nigeria to the west and north, Chad to the northeast, the Central African Republic to the east, and Equatorial Guinea, Gabon, and the Republic of the Congo to the south. Its coastline lies on the Bight of Biafra, part of the Gulf of Guinea, and the Atlantic Ocean. Due to its strategic position at the crossroads between West Africa and Central Africa, it has been categorized as being in both camps. Cameroon's population of nearly 31 million people speak 250 native languages, in addition to the national tongues of English and French, or both. Early inhabitants of the territory included the Sao civilisation around Lake Chad and the Baka hunter-gatherers in the southeastern rainforest. Portuguese explorers reached the coast in the 15th century and named the area Rio dos Camarões (Shrimp River), which became Cameroon in English. Fulani soldiers founded the Adamawa Emirate in the north in the 19th century, and various ethnic groups of the west and northwest established powerful chiefdoms and fondoms.
+>
+> Cameroon became a German colony in 1884 known as Kamerun. After World War I, it was divided between France and the United Kingdom as League of Nations mandates. France took 4/5 and the United Kingdom 1/5 of the territory and both ruled it under mandate until independence in 1960 and 1961 respectively. The Union des Populations du Cameroun (UPC) political party advocated independence but was outlawed by France in the 1950s, leading to the national liberation insurgency fought between French and UPC militant forces until early 1971. In 1960, the French-administered part of Cameroon became independent, as the Republic of Cameroun, under President Ahmadou Ahidjo. The southern part of British Cameroons federated with it in 1961 to form the Federal Republic of Cameroon. The federation was abandoned in 1972. The country was renamed the United Republic of Cameroon in 1972 and back to the Republic of Cameroon in 1984 by a presidential decree by President Paul Biya. Biya, the incumbent president, has led the country since 1982 following Ahidjo's resignation; he previously held office as prime minister from 1975 onward. Cameroon is governed as a unitary presidential republic.
+>
+> The official languages of Cameroon are French and English, the official languages of former French Cameroons and British Cameroons. Christianity is the majority religion in Cameroon, with significant minorities practising Islam and traditional faiths. It has experienced tensions from the English-speaking territories, where politicians have advocated for greater decentralisation and even complete separation or independence (as in the Southern Cameroons National Council). In 2017, tensions over the creation of an Ambazonian state in the English-speaking territories escalated into open warfare. Large numbers of Cameroonians live as subsistence farmers. The country is often referred to as "Africa in miniature" for its geological, linguistic, and cultural diversity. Its natural features include beaches, deserts, mountains, rainforests, and savannas. Cameroon's highest point, at almost 4,100 metres (13,500 ft), is Mount Cameroon in the Southwest Region. 
+>
+> Cameroon's most populous cities are Douala on the Wouri River, its economic capital and main seaport; Yaoundé, its political capital; and Garoua. Limbé in the southwest has a natural seaport. Cameroon is well known for its native music styles, particularly Makossa, Njang, and Bikutsi, and its successful national football team. It is a member state of the African Union, the United Nations, the Organisation Internationale de la Francophonie (OIF), the Commonwealth of Nations, the Non-Aligned Movement, and the Organisation of Islamic Cooperation.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Cameroon) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon|Cameroon]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Cameroon.public|Cameroon.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon.internal|Cameroon.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Cameroon.protect|Cameroon.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Cameroon.private|Cameroon.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Cameroon.personal|Cameroon.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Cameroon.secret|Cameroon.secret]] 
 
