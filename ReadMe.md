@@ -321,7 +321,7 @@ dv_UNTERM_Chinese_Formal: 喀麦隆共和国
 dv_UNTERM_French_Formal: la République du Cameroun
 dv_UNTERM_Russian: Камерун
 dv_UNTERM_Russian_Formal: Республика Камерун
-dv_Region_Name: "[[../../Africa|Africa]]"
+dv_Region_Name: "[[../../../Africa|Africa]]"
 dv_Intermediate_Region_Name: "[[Middle Africa]]"
 dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
 dv_Region: 2
@@ -347,7 +347,7 @@ dv_ISO2: CM
 dv_ISO3: CMR
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
+    - "[[../../../../../WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
     - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon|Cameroon]]"
     - "[[/_public/Earth/Continent/Africa/Africa~Central/Cameroon.public|Cameroon.public]]"
     - "[[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon.internal|Cameroon.internal]]"
@@ -358,18 +358,18 @@ dv_is_:
 dv_has_name_de: Kamerun
 dv_Area-Total: 475442
 dv_Area-Land: 465400
-dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_has_place_continent: "[[../../../Africa|Africa]]"
 dv_VehicleCode: CAM
-dv_Capital: "[[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910)|Duala_Buea_(after_1910)]]"
+dv_Capital: "[[regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910)|Duala_Buea_(after_1910)]]"
 dv_Alcohol-l: 7.6
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 10.6
 dv_has_place_latitude: 3.94
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Cameroon
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
+  - "[[../../../../../WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
   - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon|Cameroon]]"
   - "[[/_public/Earth/Continent/Africa/Africa~Central/Cameroon.public|Cameroon.public]]"
   - "[[/_internal/Earth/Continent/Africa/Africa~Central/Cameroon.internal|Cameroon.internal]]"
@@ -539,7 +539,7 @@ central_bank: "[[/_Standards/WikiData/WD~Bank_of_Central_African_States,189972|W
 highest_point: "[[/_Standards/WikiData/WD~Mount_Cameroon,190562|WD~Mount_Cameroon,190562]]"
 anthem: "[[/_Standards/WikiData/WD~O_Cameroon,_Cradle_of_Our_Forefathers,206429|WD~O_Cameroon,_Cradle_of_Our_Forefathers,206429]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
@@ -1085,7 +1085,7 @@ Languages:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Cameroon/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/properties 
 
@@ -1175,7 +1175,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Cameroon_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1204,7 +1204,7 @@ Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Cameroon.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Cameroon.mp3|Anthem-Cameroon.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Cameroon.mp3|Anthem-Cameroon.mp3]]
 
 ![[Flag_of_Cameroon.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
